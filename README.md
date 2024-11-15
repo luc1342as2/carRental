@@ -1,2 +1,3 @@
-# carRental
-Created a Car Rental website with HTML
+Car Rental Application in HTML, CSS, and JavaScript
+
+This project is a Car Rental application created with HTML, CSS, and JavaScript, designed to simulate the process of reserving a rental vehicle. Users can select car types, rental duration, and view real-time pricing based on their choices. JavaScript manages data processing, updates the rental summary, and calculates costs, while HTML and CSS provide a user-friendly, responsive interface. This project highlights skills in front-end web development and JavaScript for business-oriented applications, focusing on interactivity and streamlined user experience.
